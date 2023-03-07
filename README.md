@@ -26,6 +26,7 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 
 ## Databases
 - RDS
+- Redshift
 - DynamoDB
   - Global Tables
 - ElastiCache 
@@ -38,14 +39,27 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 - Timestream
 - DocumentDB
 - AmazonMQ
+- Kinesis
 
 ## Security
 - Accounts and Organizations
 - IAM
-- SSO
+- AWS Identity Center (formerly SSO)
 - Identity Federation
 - Active Directory
 - Cognito
+- Certificate Manager (ACM)
+- Key Management Service (KMS)
+- CloudHSM
+- Macie
+- AWS Config 
+- Amazon Inspector
+- Web Application Firewall (WAF)
+- AWS Shield
+- Guard Duty
+- Artifact
+- Audit Manager
+- Secrets Manager
 
 ## Networking
 - VPC
@@ -70,6 +84,7 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 ## DevOps
 - CloudFormation
 - Cloudwatch
+- CloudTrail
 - CodePipeline
   - CodeBuild
   - CodeCommit
