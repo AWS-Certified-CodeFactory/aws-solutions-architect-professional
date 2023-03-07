@@ -8,6 +8,7 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 - Elastic Beanstalk
 - LightSail
 - App Runner
+- ROSA (Red Hat Openshift Service on AWS)
 
 ## Serverless and Application
 - Lambda
@@ -46,11 +47,12 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 - Neptune
 - Keyspaces (Cassandra)
 - MemoryDB (Redis)
-- Quantum Ledger
+- Quantum Ledger (QLDB)
 - Timestream
 - DocumentDB
 - AmazonMQ
 - Kinesis
+- Amazon Managed Blockchain
 
 ## Security
 - Accounts and Organizations
