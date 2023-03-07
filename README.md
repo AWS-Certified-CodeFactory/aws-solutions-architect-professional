@@ -9,7 +9,7 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 - LightSail
 - App Runner
 
-## Serverless
+## Serverless and Application
 - Lambda
 - Step Functions
 - EventBridge
@@ -19,10 +19,21 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 - SES
 - AppFlow
 - SAM
+- AWS AppConfig
+
+## Front-end and Mobile
+- Amplify
+- AppSync
+- Device Farm
+- Amazon Location Service
 
 ## Storage
 - EBS
+- EFS
 - S3
+- FSx
+- Glacier
+- Storage Gateway
 
 ## Databases
 - RDS
@@ -75,6 +86,20 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 - Global Accelerator
 
 ## Machine Learning
+- Sagemaker
+- Transcribe
+- Poly
+- Textract
+- Rekognition
+- Forecast
+- DeepLens
+- DeepComposer
+- CodeGuru
+- Translate
+- Personalize
+- Lex
+- Kendra
+- Amazon Lookout for Metrics
 
 ## Big Data and Analytics
 - Athena
@@ -83,6 +108,8 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 
 ## DevOps
 - CloudFormation
+  - Application Composer
+  - Stacksets
 - Cloudwatch
 - CloudTrail
 - CodePipeline
