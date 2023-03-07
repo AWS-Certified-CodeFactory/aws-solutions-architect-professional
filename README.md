@@ -4,9 +4,21 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 ## Compute
 - EC2
 - EKS
+- ECS
+- Elastic Beanstalk
 - LightSail
+- App Runner
 
 ## Serverless
+- Lambda
+- Step Functions
+- EventBridge
+- SQS
+- SNS
+- API Gateway
+- SES
+- AppFlow
+- SAM
 
 ## Storage
 - EBS
@@ -16,13 +28,16 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 - RDS
 - DynamoDB
   - Global Tables
-- ElastiCache
+- ElastiCache 
+  - Redis
+  - Memcached
 - Neptune
 - Keyspaces (Cassandra)
 - MemoryDB (Redis)
 - Quantum Ledger
 - Timestream
 - DocumentDB
+- AmazonMQ
 
 ## Security
 - Accounts and Organizations
@@ -47,4 +62,26 @@ AWS Solutions Architect Professional, outline of topics that I need to know abou
 
 ## Machine Learning
 
+## Big Data and Analytics
+- Athena
+- Glue
+- EMR
+
 ## DevOps
+- CloudFormation
+- Cloudwatch
+- CodePipeline
+  - CodeBuild
+  - CodeCommit
+  - CodeDeploy
+- Service Catalog
+- System Manager
+- Health API
+
+## Migration
+- Migration Tools
+- Application Discovery
+- Database Migration Service (DMS)
+- Server Migration Service (SMS)
+- DataSync
+- AWS Snow Family
